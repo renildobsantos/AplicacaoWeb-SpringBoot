@@ -3,3 +3,6 @@
 
 ## Utilizei a ferramenta POSTMAN para fazer as requisições e testes automatizados
 <img align="center" src="https://github.com/renildobsantos/AplicacaoWeb-SpringBoot/blob/main/Postman.PNG"/>
+
+
+<img align="center" src="https://miro.medium.com/max/952/1*4ZPi1b_ca54pUE9xRB-IFQ.jpeg"/>
